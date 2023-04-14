@@ -1,0 +1,27 @@
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    color: #353535;
+    background-color: #ffffff;
+    border: solid #3c6e71 2px;
+    border-radius: 8px;
+    text-shadow: #2b2839;
+}
+
+.profile {
+    width: 150px;
+    border: #3c6e71 solid 1px;
+    border-radius: 2px;
+}
+
+
+body {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
